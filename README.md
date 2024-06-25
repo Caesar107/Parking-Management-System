@@ -32,9 +32,8 @@ The frontend architecture description
 
 #### Instructions
 
-1.  Input a web address：xxxx
-2.  xxxx
-3.  xxxx
+1. Enter the URL: xxxx, but for the time being, it can only be started by typing python start.py runserver in the terminal.
+2. In each page there are text prompts to operate, the home page can be a vehicle into the garage; the current parking space can be viewed to see the current occupancy of the parking space and out of the garage; the use of the record can be viewed in all the history of the record.
 
 #### Contribution
 Menglin Zou
